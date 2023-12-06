@@ -33,9 +33,9 @@ To run the Tic-Tac-Toe game locally, follow these steps:
 
 The project structure follows a modular approach, with components for different aspects of the game, including Player, GameBoard, GameOver, and Log. The commit history demonstrates step-by-step development, covering key functionalities and improvements.
 
-## Screenshots (Optional)
+## Screenshot
 
-![Gameplay Screenshot](src\assets\gameBoard.png)
+![Gameplay Screenshot](src/assets/gameBoard.png)
 
 ## Contributing
 
